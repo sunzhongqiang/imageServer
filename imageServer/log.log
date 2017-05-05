@@ -1,0 +1,15 @@
+2016-02-17 14:37:44.223  INFO 17348 --- [main] com.echin.ImageServerApplicationTests    : Starting ImageServerApplicationTests on PC201506111414 with PID 17348 (started by Administrator in F:\快盘\代码同步\imageServer)
+2016-02-17 14:37:44.224  INFO 17348 --- [main] com.echin.ImageServerApplicationTests    : No active profile set, falling back to default profiles: default
+2016-02-17 14:37:44.298  INFO 17348 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@73a1e9a9: startup date [Wed Feb 17 14:37:44 CST 2016]; root of context hierarchy
+2016-02-17 14:37:45.258  INFO 17348 --- [main] com.echin.ImageServerApplicationTests    : Started ImageServerApplicationTests in 1.442 seconds (JVM running for 2.131)
+2016-02-17 14:37:45.265  INFO 17348 --- [Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@73a1e9a9: startup date [Wed Feb 17 14:37:44 CST 2016]; root of context hierarchy
+2016-03-22 12:04:03.767  INFO 11944 --- [main] com.echin.ImageServerApplicationTests    : Starting ImageServerApplicationTests on PC201506111414 with PID 11944 (started by Administrator in F:\快盘\代码同步\imageServer)
+2016-03-22 12:04:03.784  INFO 11944 --- [main] com.echin.ImageServerApplicationTests    : No active profile set, falling back to default profiles: default
+2016-03-22 12:04:03.865  INFO 11944 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4d5d943d: startup date [Tue Mar 22 12:04:03 CST 2016]; root of context hierarchy
+2016-03-22 12:04:04.953  INFO 11944 --- [main] com.echin.ImageServerApplicationTests    : Started ImageServerApplicationTests in 1.648 seconds (JVM running for 2.304)
+2016-03-22 12:04:04.977  INFO 11944 --- [Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@4d5d943d: startup date [Tue Mar 22 12:04:03 CST 2016]; root of context hierarchy
+2016-03-22 12:05:04.215  INFO 9448 --- [main] com.echin.ImageServerApplicationTests    : Starting ImageServerApplicationTests on PC201506111414 with PID 9448 (started by Administrator in F:\快盘\代码同步\imageServer)
+2016-03-22 12:05:04.215  INFO 9448 --- [main] com.echin.ImageServerApplicationTests    : No active profile set, falling back to default profiles: default
+2016-03-22 12:05:04.279  INFO 9448 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4d5d943d: startup date [Tue Mar 22 12:05:04 CST 2016]; root of context hierarchy
+2016-03-22 12:05:05.146  INFO 9448 --- [main] com.echin.ImageServerApplicationTests    : Started ImageServerApplicationTests in 1.289 seconds (JVM running for 1.849)
+2016-03-22 12:05:05.157  INFO 9448 --- [Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@4d5d943d: startup date [Tue Mar 22 12:05:04 CST 2016]; root of context hierarchy
