@@ -11,7 +11,7 @@ public interface FileService {
 	 * 文件上传方法
 	 * @param dir 路径地址
 	 * @param name 文件名
-	 * @param file 文件路径
+	 * @param file 文件内容
 	 * @return 保存后的外网地址
 	 */
 	String upload(String dir,String name,byte[] file);
