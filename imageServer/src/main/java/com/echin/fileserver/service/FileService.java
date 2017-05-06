@@ -2,10 +2,10 @@ package com.echin.fileserver.service;
 
 public interface FileService {
 	//图片服务器域名
-	String HOST = "img.yiqingo.com";
+	String HOST = "img.manmankuai.com";
 	
 	//图片服务器存放地址
-	String UPLOAD_PATH = "/home/www/"+HOST;
+	String UPLOAD_PATH = "/data/wwwroot/"+HOST;
 	
 	/**
 	 * 文件上传方法
